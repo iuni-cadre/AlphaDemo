@@ -10,11 +10,11 @@
 carpentry: "cp"
 
 # Overall title for pages.
-title: "Lesson Title"
+title: "CADRE: A one-stop shop for scholarly data access, sharing, and reproducible computation"
 
 # Life cycle stage of the lesson
 # possible values: "pre-alpha", "alpha", "beta", "stable"
-life_cycle: "stable"
+life_cycle: "Alpha Release Demo"
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
