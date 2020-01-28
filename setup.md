@@ -1,5 +1,5 @@
 ---
-title: Setup
+title: CADRE Alpha version 1.0 release note:
 ---
 
 Our lesson template is kept in the [`carpentries/styles` repository][styles]. The `styles`
