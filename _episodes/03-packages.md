@@ -1,5 +1,5 @@
 ---
-title: "Demo 2: Build reproducible packages from notebook and query results"
+title: "Demo 2: Build reproducible packages from notebook and query results (Hutchinson)"
 teaching: 10
 exercises: 0
 questions:
