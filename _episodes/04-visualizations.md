@@ -1,5 +1,5 @@
 ---
-title: "Formatting"
+title: "Demo 2: Visualizations and word clouds"
 teaching: 20
 exercises: 0
 questions:
