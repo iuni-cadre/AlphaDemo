@@ -1,12 +1,7 @@
 ---
-title: "Lesson Design"
+title: "CADRE website"
 redirect_to:
-- https://carpentries.github.io/curriculum-development/
-questions:
-- "How do we design lessons?"
-hidden: True
+- https://cadre.iu.edu/
 
 ---
-
-Visit our [new curriculum development guide](https://carpentries.github.io/curriculum-development/).
 
