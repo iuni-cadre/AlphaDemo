@@ -1,14 +1,13 @@
 ---
 title: "Overview of the CADRE project (Pentchev)"
-teaching: 10
-exercises: 0
+time: 10
 questions:
-- "What will be covered"
+- "What is CADRE"
 objectives:
-- "Introduce the schedule and CADRE team"
+- "Introduce the CADRE project and announce the Alpha release"
 keypoints:
-- "The Alpha Release"
-- "The Demos"
+- "CADRE, or the shared big data gateway"
+- "The Alpha Demos"
 ---
 
 ![Source and Destination Files]({{ page.root }}/fig/file-mapping.svg)
