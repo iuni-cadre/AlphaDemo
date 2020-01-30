@@ -1,12 +1,13 @@
 ---
-title: "GitHub, Markdown, and Jekyll"
-teaching: 10
+title: "Demo 1: Query on the GUI-query builder with simple plotting in notebook."
+teaching: 15
 exercises: 0
 questions:
-- "How are pages published?"
+- "How can we access the data?"
 objectives:
-- "Explain how GitHub Pages produce web sites from Git repositories."
-- "Explain Jekyll's formatting rules."
+- "Explain how fedreated log-in system work and CADRE data policy."
+- "Explain how CADRE GUI-query builder can help find the data you want."
+- "Explain how one can explore and analyze query result in notebooks."
 keypoints:
 - "Lessons are stored in Git repositories on GitHub."
 - "Lessons are written in Markdown."
