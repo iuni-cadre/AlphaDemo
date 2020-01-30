@@ -11,7 +11,7 @@ keypoints:
 - "The Alpha Demos"
 ---
 
-![Source and Destination Files]({{ page.root }}/fig/file-mapping.svg)
+![Source and Destination Files]({{ page.root }}/assets/slidesMIT.pptx)
 
 > ## Collections
 >
