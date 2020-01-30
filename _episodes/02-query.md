@@ -1,5 +1,5 @@
 ---
-title: "Demo 1: Query on the GUI-query builder with simple plotting in notebook."
+title: "Demo 1: Query on the GUI-query builder with plotting in notebook (Hutchinson)."
 teaching: 15
 exercises: 0
 questions:
