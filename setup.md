@@ -2,8 +2,6 @@
 title: CADRE Alpha Demo (Version alpha 1.0 02-10-2020)
 ---
 
-![Source and Destination Files]({{ page.root }}/fig/file-mapping.svg)
-
 > ## Collections
 >
 > As described [earlier]({{ page.root }}/02-tooling/#collections),
@@ -56,5 +54,7 @@ The `bin/lesson_initialize.py` script creates files that need to be customized f
 If you want to run `bin/lesson_check.py` (which is invoked by `make lesson-check`)
 you will need Jekyll (so that you have its Markdown parser, which is called Kramdown)
 and the [PyYAML][pyyaml] module for Python 3.
+
+![Source and Destination Files]({{ page.root }}/fig/file-mapping.svg)
 
 {% include links.md %}
