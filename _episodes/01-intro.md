@@ -1,5 +1,5 @@
 ---
-title: "Introduction"
+title: "Overview of the CADRE project (Pentchev)"
 teaching: 10
 exercises: 0
 questions:
