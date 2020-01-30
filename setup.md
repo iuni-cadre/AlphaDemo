@@ -1,18 +1,5 @@
 ---
-title: CADRE Alpha version 1.0 release:
----
-
----
-title: "Introduction"
-teaching: 10
-exercises: 0
-questions:
-- "What will be covered"
-objectives:
-- "Introduce the schedule and CADRE team"
-keypoints:
-- "The Alpha Release"
-- "The Demos"
+title: CADRE Alpha Demo (Version alpha 1.0 02-10-2020)
 ---
 
 ![Source and Destination Files]({{ page.root }}/fig/file-mapping.svg)
@@ -24,19 +11,6 @@ keypoints:
 > Files that appear under the "extras" menu are stored in the `_extras` directory,
 > while lesson episodes are stored in the `_episodes` directory.
 {: .callout}
-
-# Standard Files
-
-When the lesson repository is first created,
-the initial author should create a `README.md` file containing
-a one-line explanation of the lesson's purpose.
-
-The [lesson template]({{ site.template_repo }}) provides the following files
-which should *not* be modified:
-
-*   `CONDUCT.md`: the code of conduct.
-*   `LICENSE.md`: the lesson license.
-*   `Makefile`: commands for previewing the site, cleaning up junk, etc.
 
 ## Starter Files
 
