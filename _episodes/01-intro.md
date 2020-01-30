@@ -1,6 +1,6 @@
 ---
 title: "Overview of the CADRE project (Pentchev)"
-teaching: 10
+teaching: 15
 exercises: 0
 questions:
 - "What is CADRE"
