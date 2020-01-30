@@ -6,14 +6,7 @@ permalink: index.html  # Is the only page that doesn't follow the pattern /:path
 
 {% include gh_variables.html %}
 
-test
-
-> ## Prerequisites
->
-> test2
-{: .prereq}
-
-> ## Ten Things You Need To Know
+> ## What will be covered
 >
 > 0.  Intro
 > 1.  Demo 1: Query on the GUI-query builder (step by step using drop-down menus) with simple plotting in notebook.
