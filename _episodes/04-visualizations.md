@@ -1,5 +1,5 @@
 ---
-title: "Demo 3: Visualizations and word clouds"
+title: "Demo 3: Visualizations and word clouds (Silva)"
 teaching: 20
 exercises: 0
 questions:
