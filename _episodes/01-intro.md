@@ -10,8 +10,7 @@ keypoints:
 - "CADRE, or the shared big data gateway"
 - "The Alpha Demos"
 ---
-
-![Source and Destination Files]({{ page.root }}/assets/slidesMIT.pptx)
+[Slides]: https://docs.google.com/presentation/d/e/2PACX-1vT-dG3E2K-8WlWY3lapN_zAZjyAAccQxxFpa6hHzhx5DLbVH9ykh_IYVIDa5T8qew/pub?start=false&loop=false&delayms=60000
 
 > ## Collections
 >
