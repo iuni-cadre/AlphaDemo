@@ -22,7 +22,7 @@ These simplify many tasks, but make other things more complicated.
 
 ## Repositories on GitHub
 
-Our lessons are stored in Git repositories (or "repos") on GitHub.
+Our are stored in Git repositories (or "repos") on GitHub.
 We use the term *fork* to mean
 "a copy of a GitHub-hosted repo that is also hosted on GitHub"
 and the term *clone* to mean
