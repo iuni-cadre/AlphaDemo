@@ -1,7 +1,3 @@
-Demo01: Data access and reproducible packages
-Query-interface, Notebooks and packages
-
-
 ---
 title: "Demo01: Data access and reproducible packages (Hutchinson)."
 teaching: 25
