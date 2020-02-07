@@ -1,9 +1,9 @@
 ---
-title: "Demo02: Networks and visualization (Silva)"
+title: "Demo02: Networks and visualizations (Silva)"
 teaching: 25
 exercises: 0
 questions:
-- "How can we perform data visualization and reproduce the result"
+- "How can we build networks from query results and visualize them"
 objectives:
 - "Demonstrate word cloud visualizations."
 - "Demonstrate network visualizations."
