@@ -11,7 +11,7 @@ keypoints:
 - "The Alpha Demos"
 ---
 
-[Caption](https://docs.google.com/presentation/d/e/2PACX-1vT-dG3E2K-8WlWY3lapN_zAZjyAAccQxxFpa6hHzhx5DLbVH9ykh_IYVIDa5T8qew/pub?start=false&loop=false&delayms=60000)
+[Slides](https://docs.google.com/presentation/d/e/2PACX-1vT-dG3E2K-8WlWY3lapN_zAZjyAAccQxxFpa6hHzhx5DLbVH9ykh_IYVIDa5T8qew/pub?start=false&loop=false&delayms=60000)
 
 > ## Collections
 >
