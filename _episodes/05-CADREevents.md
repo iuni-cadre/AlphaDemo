@@ -11,8 +11,7 @@ keypoints:
 - "CADRE meetings and workshops"
 - "CADRE future roadmap"
 ---
-
-![Source and Destination Files]({{ page.root }}/fig/file-mapping.svg)
+[Slides](https://docs.google.com/presentation/d/e/2PACX-1vQV8MIWmcW7KAB5VlDs9knVgSOMMFwtg80fCNHF1Y4WGkSGtyt7PFHntlTLdCIafQ/pub?start=false&loop=false&delayms=60000)
 
 > ## Collections
 >
