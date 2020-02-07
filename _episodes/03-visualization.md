@@ -8,6 +8,7 @@ objectives:
 - "Demonstrate word cloud visualizations."
 - "Demonstrate network visualizations."
 - "Explain how you can reproduce the result using public packages"
+- "Demonstrate advanced intreactive visualizations"
 ---
 
 ## Formatting Code
