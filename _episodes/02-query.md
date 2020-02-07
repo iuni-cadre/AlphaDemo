@@ -1,20 +1,21 @@
+Demo01: Data access and reproducible packages
+Query-interface, Notebooks and packages
+
+
 ---
-title: "Demo 1: Query on the GUI-query builder with plotting in notebook (Hutchinson)."
-teaching: 15
+title: "Demo 1: Data access and reproducible packages (Hutchinson)."
+teaching: 25
 exercises: 0
 questions:
-- "How can we access the data?"
+- "How can we access the data and analyze them? How can we make our analysis reproducible?"
 objectives:
 - "Explain how fedreated log-in system work and CADRE data policy."
 - "Explain how CADRE GUI-query builder can help find the data you want."
 - "Explain how one can explore and analyze query result in notebooks."
-keypoints:
-- "Lessons are stored in Git repositories on GitHub."
-- "Lessons are written in Markdown."
-- "Jekyll translates the files in the gh-pages branch into HTML for viewing."
-- "The site's configuration is stored in _config.yml."
-- "Each page's configuration is stored at the top of that page."
-- "Groups of files are stored in collection directories whose names begin with an underscore."
+- "Demonstrate the CADRE marketplace."
+- "Explain how tools can be built from notebook code"
+- "Explain how archives can be created from query results"
+- "Explain how to combine tools with archives into reproducible packages"
 ---
 
 This episode describes the tools we use to build and manage lessons.
