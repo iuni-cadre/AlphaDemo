@@ -1,17 +1,13 @@
 ---
-title: "Demo 3: Visualizations and word clouds (Silva)"
-teaching: 20
+title: "Demo02: Networks and visualization (Silva)"
+teaching: 25
 exercises: 0
 questions:
-- "How can we perform data visualization and use reproducible tools for my own data"
+- "How can we perform data visualization and reproduce the result"
 objectives:
 - "Demonstrate word cloud visualizations."
 - "Demonstrate network visualizations."
-- "Explain how we can build reproducible tools."
-- "Explain how you can combine existing tools with your own data to create reproducible packages"
-keypoints:
-- "Lesson episodes are stored in _episodes/dd-subject.md."
-- "Each episode's title must include a title, time estimates, motivating questions, lesson objectives, and key points."
+- "Explain how you can reproduce the result using public packages"
 ---
 
 ## Formatting Code
