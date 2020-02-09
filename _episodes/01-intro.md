@@ -22,8 +22,6 @@ The $2 million project began in 2018 with a two-year National Leadership grant f
 
 CADRE’s core leadership team includes CADRE Director Jamie V. Wittenberg (IU Libraries) and CADRE Co-Directors Patricia L. Mabry (HealthPartners Institute), Valentin Pentchev (IU Network Science Institute), Xiaoran Yan (IU Network Science Institute), and Robert Van Rennes (Big Ten Academic Alliance).
 
-To learn more about how to sign up for CADRE, visit the Getting Started page and attend the CADRE workshop.
-
 CADRE Partnerships
 This project is funded with IMLS award LG-70-18-0202 and is additionally supported by a unique group of cross-industry partners. CADRE partner institutions include: 
 
