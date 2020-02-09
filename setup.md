@@ -1,9 +1,7 @@
 ---
 title: CADRE Alpha Demo (Version 0.1.0-alpha 02-10-2020)
 ---
-[Slides](https://docs.google.com/presentation/d/e/2PACX-1vSgUaJGhKwtuKjg87kae3Gzb4rwUFwCvpc1KlOd8QddeY3pjdM6B1ZdmLjMRFgL1GGZ6zwOolRELB2i/pub?start=false&loop=false&delayms=600000)
-
-![Source and Destination Files]({{ page.root }}/fig/file-mapping.svg)
+[![Binder](https://iuni-cadre.github.io/AlphaDemo/assets/img/logomark-colored-transparent.png)](https://docs.google.com/presentation/d/e/2PACX-1vSgUaJGhKwtuKjg87kae3Gzb4rwUFwCvpc1KlOd8QddeY3pjdM6B1ZdmLjMRFgL1GGZ6zwOolRELB2i/pub?start=false&loop=false&delayms=600000)
 
 > ## Getting Started
 >
