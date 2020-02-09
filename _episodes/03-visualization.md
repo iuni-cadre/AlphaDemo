@@ -3,11 +3,11 @@ title: "Demo02: Networks and visualizations (Silva)"
 teaching: 25
 exercises: 0
 questions:
-- "How can we build networks from query results and visualize them"
+- "How can you build networks from query results and visualize them"
 objectives:
 - "Demonstrate word cloud visualizations."
 - "Demonstrate network visualizations."
-- "Explain how you can reproduce the result using public packages"
+- "Explain how you can reproduce the result using public packages, with your own data"
 - "Demonstrate advanced intreactive visualizations"
 ---
 
