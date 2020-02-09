@@ -24,10 +24,9 @@ The CADRE team will continue to provide intensive support to its CADRE Fellowsâ€
 To learn more about how to sign up for CADRE, visit the Getting Started page and attend the CADRE workshop.
 
 CADRE Partnerships
-This project is funded with IMLS award LG-70-18-0202 and is additionally supported by a unique group of cross-industry partners. 
+This project is funded with IMLS award LG-70-18-0202 and is additionally supported by a unique group of cross-industry partners. CADRE partner institutions include: 
 
 ```
-CADRE partner institutions include: 
 Midwest Big Data Hub
 South Big Data Hub
 West Big Data Hub
