@@ -1,7 +1,7 @@
 ---
 title: CADRE Alpha Demo (Version 0.1.0-alpha 02-10-2020)
 ---
-[![Slides](https://cadre.iu.edu/user/pages/01.home/01._feature-1/illustration1.min.png)](https://docs.google.com/presentation/d/e/2PACX-1vSgUaJGhKwtuKjg87kae3Gzb4rwUFwCvpc1KlOd8QddeY3pjdM6B1ZdmLjMRFgL1GGZ6zwOolRELB2i/pub?start=false&loop=false&delayms=600000)
+[![Slides](https://cadre.iu.edu/user/pages/01.home/02._feature-2/illustration2-alt.min.png)](https://docs.google.com/presentation/d/e/2PACX-1vSgUaJGhKwtuKjg87kae3Gzb4rwUFwCvpc1KlOd8QddeY3pjdM6B1ZdmLjMRFgL1GGZ6zwOolRELB2i/pub?start=false&loop=false&delayms=600000)
 
 > ## Getting Started
 >
