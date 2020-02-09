@@ -3,7 +3,7 @@ title: "Demo01: Data access and reproducible packages (Hutchinson)."
 teaching: 25
 exercises: 0
 questions:
-- "How can we access the data and analyze them? How can we make our analysis reproducible?"
+- "How can you access the data and analyze them? How can you make your analysis reproducible?"
 objectives:
 - "Explain how fedreated log-in system work and CADRE data policy."
 - "Explain how CADRE GUI-query builder can help find the data you want."
