@@ -1,5 +1,5 @@
 ---
-title: "Demo01: Data access and reproducible packages (Hutchinson)."
+title: "Demo01: Data access and reproducible packages (Hutchinson)"
 teaching: 25
 exercises: 0
 questions:
