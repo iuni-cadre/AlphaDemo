@@ -2,30 +2,15 @@
 layout: reference
 ---
 
-## Glossary
+## Slides and links
 
-The glossary would go here, formatted as:
+[Slides](https://docs.google.com/presentation/d/e/2PACX-1vSgUaJGhKwtuKjg87kae3Gzb4rwUFwCvpc1KlOd8QddeY3pjdM6B1ZdmLjMRFgL1GGZ6zwOolRELB2i/pub?start=false&loop=false&delayms=600000)
 
-~~~
-{:auto_ids}
-key word 1
-:   explanation 1
+https://cadre.iu.edu/
 
-key word 2
-:   explanation 2
-~~~
-{: .source}
+https://iuni-cadre.github.io/AlphaDemo/
 
-(`{:auto_ids}` is needed at the start
-so that Jekyll will automatically generate a unique ID for each item
-to allow other pages to hyperlink to specific glossary entries.)
-This renders as:
+https://github.com/iuni-cadre/AlphaDemoCode/
 
-{:auto_ids}
-key word 1
-:   explanation 1
-
-key word 2
-:   explanation 2
 
 {% include links.md %}
