@@ -1,12 +1,14 @@
 ---
 title: CADRE Alpha Demo (Version 0.1.0-alpha 02-10-2020)
 ---
+[Slides:](https://docs.google.com/presentation/d/e/2PACX-1vSgUaJGhKwtuKjg87kae3Gzb4rwUFwCvpc1KlOd8QddeY3pjdM6B1ZdmLjMRFgL1GGZ6zwOolRELB2i/pub?start=false&loop=false&delayms=600000)
+
 [![Slides](https://pbs.twimg.com/media/EPYOXojWAAE60pq?format=jpg&name=small)](https://docs.google.com/presentation/d/e/2PACX-1vSgUaJGhKwtuKjg87kae3Gzb4rwUFwCvpc1KlOd8QddeY3pjdM6B1ZdmLjMRFgL1GGZ6zwOolRELB2i/pub?start=false&loop=false&delayms=600000)
 
 > ## Getting Started
 >
-> This tutorial has no pre-requisites. There is no required setup or data to 
-> download. All you need is a morden browser with internet!
+>- This tutorial has no pre-requisites. There is no required setup or data to download. All you need is a morden browser with internet!
+>- Source code for the demo will be automatically downloaded to your personal space. It can also be found at https://github.com/iuni-cadre/AlphaDemoCode
 {: .prereq}
 
 ## The Alpha Release
