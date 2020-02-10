@@ -46,10 +46,4 @@ AlphaDemoCode/Demo 01/requirements.txt
 ## CADRE packages and tools
 All packages, tools and archives in this demo will be created by you. They can be created and accessed from the CADRE Marketplace. [https://cadre.iu.edu/gateway/rac](https://cadre.iu.edu/gateway/rac) 
 
-> ## Current limitations
->- 
->- Public sharing of user tools, archives and packages will be enabled later
->- Advanced visualizations in Notebook Part2.ipynb currently cannot be containerized into CADRE packages or tools
-{: .callout}
-
 {% include links.md %}
