@@ -1,6 +1,6 @@
 ---
 title: "Demo02: Networks and visualizations (Silva)"
-teaching: 25
+teaching: 30
 exercises: 0
 questions:
 - "How can you build networks from query results and visualize them"
