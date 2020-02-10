@@ -25,7 +25,7 @@ CADRE’s core leadership team includes CADRE Director Jamie V. Wittenberg (IU L
 CADRE Partnerships
 This project is funded with IMLS award LG-70-18-0202 and is additionally supported by a unique group of cross-industry partners.
 
-> ## `CADRE partner institutions`
+> ## CADRE partner institutions
 >- Midwest Big Data Hub
 >- South Big Data Hub
 >- West Big Data Hub
