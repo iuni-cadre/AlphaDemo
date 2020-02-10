@@ -16,9 +16,24 @@ keypoints:
 ---
 
 > ## Getting Started
->- Start your Jupyter Lab environment
->- To get the input files in the right path, run the "demo02_data_package" from the CADRE Marketplace. 
+>- Start your Jupyter Notebook from https://cadre.iu.edu/gateway/jupyter
+>- To get the input files in the right path, run the "demo02_data_package" from the CADRE Marketplace. https://cadre.iu.edu/gateway/rac
 {: .prereq}
+
+***
+The first notebook illustrates how to bring scalable computing resources to the CADRE notebook environment. The notebook requres external credentals and will not be reproducible for the audience. 
+```
+Notebook: Non-interactive/2nd-degree-analysis.ipynb
+```
+
+* Input files: "/packages/issi_data_package/output_files/data/774e7eb6-6ac7-4dd5-9339-531b746cb8ec.csv"
+
+* Output files: "/packages/issi_data_package/output_files/data/2ndOrderEdges.csv" 
+```
+To get the outputfiles, run the "ISSI Data Package" from the CADRE Marketplace.
+```
+We will illustrate how to generate edge lists from large citation data set using distributed cluster and the result is delivered through the "ISSI Data Package".
+***
 
 > ## Data set limitation
 >- Only Microsoft Academic Graph data is compatible with this demo
