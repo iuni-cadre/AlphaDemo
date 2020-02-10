@@ -12,7 +12,9 @@ keypoints:
 - "The Alpha Release"
 ---
 
-[![Slides](https://pbs.twimg.com/media/EPYOXojWAAE60pq?format=jpg&name=small)](https://docs.google.com/presentation/d/e/2PACX-1vSgUaJGhKwtuKjg87kae3Gzb4rwUFwCvpc1KlOd8QddeY3pjdM6B1ZdmLjMRFgL1GGZ6zwOolRELB2i/pub?start=false&loop=false&delayms=600000)
+[Slides:](https://docs.google.com/presentation/d/e/2PACX-1vSgUaJGhKwtuKjg87kae3Gzb4rwUFwCvpc1KlOd8QddeY3pjdM6B1ZdmLjMRFgL1GGZ6zwOolRELB2i/pub?start=false&loop=false&delayms=600000#slide=id.g6112ce6bd3_0_0)
+
+[![Slides](https://pbs.twimg.com/media/EPYOXojWAAE60pq?format=jpg&name=small)](https://docs.google.com/presentation/d/e/2PACX-1vSgUaJGhKwtuKjg87kae3Gzb4rwUFwCvpc1KlOd8QddeY3pjdM6B1ZdmLjMRFgL1GGZ6zwOolRELB2i/pub?start=false&loop=false&delayms=600000#slide=id.g6112ce6bd3_0_0)
 
 The Collaborative Archive & Data Research Environment (CADRE) will release the alpha version of its platform today in tandem with its major workshop that will show researchers from any institution how to access and test the free tier of the platform. 
 
