@@ -23,22 +23,22 @@ The $2 million project began in 2018 with a two-year National Leadership grant f
 CADRE’s core leadership team includes CADRE Director Jamie V. Wittenberg (IU Libraries) and CADRE Co-Directors Patricia L. Mabry (HealthPartners Institute), Valentin Pentchev (IU Network Science Institute), Xiaoran Yan (IU Network Science Institute), and Robert Van Rennes (Big Ten Academic Alliance).
 
 CADRE Partnerships
-This project is funded with IMLS award LG-70-18-0202 and is additionally supported by a unique group of cross-industry partners. CADRE partner institutions include: 
+This project is funded with IMLS award LG-70-18-0202 and is additionally supported by a unique group of cross-industry partners.
 
-```
-Midwest Big Data Hub
-South Big Data Hub
-West Big Data Hub
-Microsoft Research
-Web of Science Group
-Michigan State University Libraries
-Ohio State University Libraries
-Penn State University Libraries
-Purdue University Libraries
-Rutgers University Libraries
-University of Iowa Libraries
-University of Michigan Libraries
-University of Minnesota Libraries
-```
+> ## `CADRE partner institutions`
+>Midwest Big Data Hub
+>South Big Data Hub
+>West Big Data Hub
+>Microsoft Research
+>Web of Science Group
+>Michigan State University Libraries
+>Ohio State University Libraries
+>Penn State University Libraries
+>Purdue University Libraries
+>Rutgers University Libraries
+>University of Iowa Libraries
+>University of Michigan Libraries
+>University of Minnesota Libraries
+{: .checklist}
 
 {% include links.md %}
