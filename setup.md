@@ -8,7 +8,7 @@ title: CADRE Alpha Demo (Version 0.1.0-alpha 02-10-2020)
 > ## Getting Started
 >
 >- This tutorial has no pre-requisites. There is no required setup or data to download. All you need is a morden browser with internet!
->- Source code for the demo will be automatically downloaded to your personal space. It can also be found at the [code repository](https://github.com/iuni-cadre/AlphaDemoCode)
+>- Source code for the demo will be automatically downloaded to your personal space. It can also be found at the [GitHub repository](https://github.com/iuni-cadre/AlphaDemoCode).
 {: .prereq}
 
 ## The Alpha Release
