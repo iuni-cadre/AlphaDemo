@@ -32,7 +32,7 @@ The second notebook Demonstrates more advanced intreactive visualizations.
 ```
 Notebook:  AlphaDemoCode/Demo 02/Part2.ipynb
 ```
-## CADRE packages, tools and archives
+## CADRE packages and tools
 All packages, tools and archives can be accessed from the CADRE Marketplace. [https://cadre.iu.edu/gateway/rac](https://cadre.iu.edu/gateway/rac)
 
 The following package will reproduce the network and word cloud visualizations using prepared data.
@@ -45,9 +45,11 @@ Use the following public tool to create new packages for your own query results.
 Tool:  demo02-public
 ```
 
-> ## Data set limitation
+> ## Current limitations
 >- Only Microsoft Academic Graph data is compatible with this demo
 >- Refine your query size for better visulization results (only papers after 2017 will be included for size control)
+>- Public sharing of user tools, archives and packages will be enabled later
+>- Advanced visualizations in Notebook Part2.ipynb currently cannot be containerized into CADRE packages or tools
 {: .callout}
 
 {% include links.md %}
