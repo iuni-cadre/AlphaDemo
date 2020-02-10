@@ -16,24 +16,34 @@ keypoints:
 ---
 
 > ## Getting Started
->- Start your Jupyter Notebook from https://cadre.iu.edu/gateway/jupyter
->- To get the input files in the right path, run the "demo02_data_package" from the CADRE Marketplace. https://cadre.iu.edu/gateway/rac
+>- Start your Jupyter Notebook from [https://cadre.iu.edu/gateway/jupyter](https://cadre.iu.edu/gateway/jupyter)
+>- To get the input files in the right path, run the "demo02_data_package" from the CADRE Marketplace. [https://cadre.iu.edu/gateway/rac](https://cadre.iu.edu/gateway/rac)
 {: .prereq}
 
-***
-The first notebook illustrates how to bring scalable computing resources to the CADRE notebook environment. The notebook requres external credentals and will not be reproducible for the audience. 
+## Notebooks
+Notebooks and source code will be automatically downloaded to your personal Jupyter Notebook. They can also be found at the [GitHub repository](https://github.com/iuni-cadre/AlphaDemoCode).
+
+The first notebook illustrates network and word cloud visualizations. 
 ```
-Notebook: Non-interactive/2nd-degree-analysis.ipynb
+Notebook:  AlphaDemoCode/Demo 02/Part1.ipynb
 ```
 
-* Input files: "/packages/issi_data_package/output_files/data/774e7eb6-6ac7-4dd5-9339-531b746cb8ec.csv"
+The second notebook Demonstrates more advanced intreactive visualizations.
+```
+Notebook:  AlphaDemoCode/Demo 02/Part2.ipynb
+```
+## CADRE packages, tools and archives
+All packages, tools and archives can be accessed from the CADRE Marketplace. [https://cadre.iu.edu/gateway/rac](https://cadre.iu.edu/gateway/rac)
 
-* Output files: "/packages/issi_data_package/output_files/data/2ndOrderEdges.csv" 
+The following package will reproduce the network and word cloud visualizations using prepared data.
 ```
-To get the outputfiles, run the "ISSI Data Package" from the CADRE Marketplace.
+Package:  demo02-public-all-default
 ```
-We will illustrate how to generate edge lists from large citation data set using distributed cluster and the result is delivered through the "ISSI Data Package".
-***
+
+Use the following public tool to create new packages for your own query results.
+```
+Tool:  demo02-public
+```
 
 > ## Data set limitation
 >- Only Microsoft Academic Graph data is compatible with this demo
