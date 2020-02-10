@@ -10,7 +10,7 @@ layout: reference
 
 [CADRE platform: https://cadre.iu.edu/gateway](https://cadre.iu.edu/gateway)
 
-[Demo details: https://github.com/iuni-cadre/AlphaDemoCode/](https://iuni-cadre.github.io/AlphaDemo/)
+[Demo details: https://iuni-cadre.github.io/AlphaDemo](https://iuni-cadre.github.io/AlphaDemo/)
 
 [Demo code: https://github.com/iuni-cadre/AlphaDemoCode](https://github.com/iuni-cadre/AlphaDemoCode)
 {% include links.md %}
