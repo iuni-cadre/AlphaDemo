@@ -1,6 +1,6 @@
 ---
 title: "Demo01: Data access and reproducible packages (Hutchinson)"
-teaching: 25
+teaching: 30
 exercises: 0
 questions:
 - "How can you access the data and analyze them? How can you make your analysis reproducible?"
