@@ -6,11 +6,11 @@ layout: reference
 
 [Slides](https://docs.google.com/presentation/d/e/2PACX-1vSgUaJGhKwtuKjg87kae3Gzb4rwUFwCvpc1KlOd8QddeY3pjdM6B1ZdmLjMRFgL1GGZ6zwOolRELB2i/pub?start=false&loop=false&delayms=600000)
 
-https://cadre.iu.edu/
+[CADRE website: https://cadre.iu.edu](https://cadre.iu.edu)
 
-https://iuni-cadre.github.io/AlphaDemo/
+[CADRE platform: https://cadre.iu.edu/gateway](https://cadre.iu.edu/gateway)
 
-https://github.com/iuni-cadre/AlphaDemoCode/
+[Demo details: https://github.com/iuni-cadre/AlphaDemoCode/](https://iuni-cadre.github.io/AlphaDemo/)
 
-
+[Demo code: https://github.com/iuni-cadre/AlphaDemoCode](https://github.com/iuni-cadre/AlphaDemoCode)
 {% include links.md %}
