@@ -11,11 +11,11 @@ objectives:
 - "Demonstrate advanced intreactive visualizations"
 ---
 
-## Formatting Code
+> ## Getting Started
+>
+> To get the input files in the right path, run the "demo02_data_package" from the CADRE Marketplace.
+{: .prereq}
 
-Inline code fragments are formatted using back-quotes.
-Longer code blocks are formatted by opening and closing the block with `~~~` (three tildes),
-with a class specifier after the block:
 
 {% raw %}
     ~~~
