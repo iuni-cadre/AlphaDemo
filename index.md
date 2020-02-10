@@ -16,7 +16,7 @@ permalink: index.html  # Is the only page that doesn't follow the pattern /:path
 
 > ## Getting Started
 >
-> This tutorial has no pre-requisites. There is no required setup or data to 
+> This demo has no pre-requisites. There is no required setup or data to 
 > download. All you need is a morden browser with internet!
 {: .prereq}
 
