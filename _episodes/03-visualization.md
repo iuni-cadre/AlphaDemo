@@ -16,13 +16,13 @@ keypoints:
 ---
 
 > ## Getting Started
-> Start your Jupyter Lab environment
-> To get the input files in the right path, run the "demo02_data_package" from the CADRE Marketplace. 
+>- Start your Jupyter Lab environment
+>- To get the input files in the right path, run the "demo02_data_package" from the CADRE Marketplace. 
 {: .prereq}
 
-
 > ## Data set limitation
-> Only Microsoft Academic Graph data is compatible with this demo
+>- Only Microsoft Academic Graph data is compatible with this demo
+>- Refine your query size for better visulization results (only papers after 2017 will be included for size control)
 {: .callout}
 
 {% include links.md %}
