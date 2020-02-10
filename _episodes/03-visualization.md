@@ -12,8 +12,8 @@ objectives:
 ---
 
 > ## Getting Started
->
-> To get the input files in the right path, run the "demo02_data_package" from the CADRE Marketplace.
+> Start your Jupyter Lab environment
+> To get the input files in the right path, run the "demo02_data_package" from the CADRE Marketplace. 
 {: .prereq}
 
 
@@ -48,9 +48,8 @@ The [template]({{ site.template_repo }}) provides three styles for code blocks:
 ~~~
 {: .output}
 
-~~~
-.error: error messages.
-~~~
-{: .error}
+> ## Data set limitation
+> Only Microsoft Academic Graph data is compatible with this demo
+{: .callout}
 
 {% include links.md %}
